@@ -28,11 +28,13 @@
 - Jon Snow: fixed a bug where a dismissed pet would remain active.
 - Jon Snow's riding ability set back to ground mount.
 - Sansa's model updated to reflect her resemblance with Cersei.
-- Arya's body model keeps changing. This is intended. Arya's reputation with Hound has been set to friendly. Hound's reputation with Arya has been set to Fuck Off to reflect this change.
+- Arya's body model keeps changing. This is intended. 
+- Arya's reputation with Hound has been set to friendly. Hound's reputation with Arya has been set to Fuck Off to reflect this change.
 - Arya rolled back; White Walker guild banned for rest of season.
 - Podrick is now Exalted with Northern Ladies. New item "Staff Of Podrick" available from faction vendor.
 - Sandor Clegane fire fear has been removed.
 - Flaming sword weapon enchant removed.
+- We will be adjusting Bran's usefulness to "plot device".
 
 ### Lannister
 
@@ -74,7 +76,8 @@
 - Due to player complaint, we have reverted changes to Jamie from last patch. He no longer has a conscious perk. However, Brienne's virginity level will remain the same.
 - In order to support new NPC load, Elephants were removed from the upcoming patch notes.
 - Valyrian steel items now Heirloom quality and can no longer be traded across accounts.
-- Dagger Item [ Martin's Fury ] removed from game and exploit corrected.
+- Dagger Item [Martin's Fury] removed from game and exploit corrected.
+- [Starbucks mug] item removed.
 
 ## MISCELLANEOUS
 
