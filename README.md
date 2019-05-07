@@ -76,8 +76,9 @@
 - Due to player complaint, we have reverted changes to Jamie from last patch. He no longer has a conscious perk. However, Brienne's virginity level will remain the same.
 - In order to support new NPC load, Elephants were removed from the upcoming patch notes.
 - Valyrian steel items now Heirloom quality and can no longer be traded across accounts.
-- Dagger Item [Martin's Fury] removed from game and exploit corrected.
-- [Starbucks mug] item removed.
+- Dagger Item [*Martin's Fury*] removed from game and exploit corrected.
+- [*Starbucks mug*] item removed.
+- **Update**: due to feedback, item [*Pumpkin Spice Latte*] has been removed.
 
 ## MISCELLANEOUS
 
