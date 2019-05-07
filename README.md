@@ -2,7 +2,7 @@
 
 ## NEW QUESTS
 
-- You can now download the pre-patch for the next event: CLEGANEBOWL!
+- You can now download the pre-patch for the next event: **CLEGANEBOWL**!
 - The Siege of King's Landing raid is now on the PTR. Go kill Cersei and the remaining Lannisters as Tyrion!
 - The Battle of Winterfell event is over. You can now contribute to the rebuilding effort by donating wine, lumber and corpses.
 - New quest "Missandei Missinhead" added
